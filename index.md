@@ -2,7 +2,7 @@
 
 ### Purpose
 
-Lorem ipsum 
+Testing email address is hello@kernel.wtf
 
 ```bash
 $ make menuconfig
